@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://jakeddot.github.io/small-business-security-templates/sitemap.xml
