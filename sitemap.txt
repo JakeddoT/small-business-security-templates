@@ -10,12 +10,14 @@ https://jakeddot.github.io/small-business-security-templates/cyber-insurance-ren
 https://jakeddot.github.io/small-business-security-templates/data-retention-policy-template.html
 https://jakeddot.github.io/small-business-security-templates/employee-offboarding-checklist.html
 https://jakeddot.github.io/small-business-security-templates/ftc-safeguards-rule-checklist-small-business.html
+https://jakeddot.github.io/small-business-security-templates/google-workspace-hacked-account-checklist.html
 https://jakeddot.github.io/small-business-security-templates/google-workspace-offboarding-checklist.html
 https://jakeddot.github.io/small-business-security-templates/hipaa-security-risk-assessment-small-practice.html
 https://jakeddot.github.io/small-business-security-templates/how-to-check-pos-card-reader-for-skimmers.html
 https://jakeddot.github.io/small-business-security-templates/incident-response-plan-template-small-business.html
 https://jakeddot.github.io/small-business-security-templates/
 https://jakeddot.github.io/small-business-security-templates/is-remote-desktop-exposed-to-internet.html
+https://jakeddot.github.io/small-business-security-templates/lost-company-laptop-what-to-do.html
 https://jakeddot.github.io/small-business-security-templates/managed-it-sla-template.html
 https://jakeddot.github.io/small-business-security-templates/medical-dental-office-security-checklist.html
 https://jakeddot.github.io/small-business-security-templates/mfa-rollout-plan-small-business.html
@@ -28,6 +30,7 @@ https://jakeddot.github.io/small-business-security-templates/pci-compliance-chec
 https://jakeddot.github.io/small-business-security-templates/ransomware-attack-what-to-do-small-business.html
 https://jakeddot.github.io/small-business-security-templates/security-awareness-training-log-template.html
 https://jakeddot.github.io/small-business-security-templates/security-self-assessment.html
+https://jakeddot.github.io/small-business-security-templates/sent-email-to-wrong-person-what-to-do.html
 https://jakeddot.github.io/small-business-security-templates/small-business-cybersecurity-checklist.html
 https://jakeddot.github.io/small-business-security-templates/tabletop-exercise-template-small-business.html
 https://jakeddot.github.io/small-business-security-templates/vendor-bank-details-change-verification.html
