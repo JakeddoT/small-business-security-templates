@@ -2,6 +2,7 @@ https://jakeddot.github.io/small-business-security-templates/about.html
 https://jakeddot.github.io/small-business-security-templates/acceptable-use-policy-template.html
 https://jakeddot.github.io/small-business-security-templates/backup-restore-test-checklist.html
 https://jakeddot.github.io/small-business-security-templates/byod-policy-template.html
+https://jakeddot.github.io/small-business-security-templates/check-bitlocker-status-all-computers.html
 https://jakeddot.github.io/small-business-security-templates/clicked-phishing-link-what-to-do.html
 https://jakeddot.github.io/small-business-security-templates/cyber-insurance-mfa-requirements.html
 https://jakeddot.github.io/small-business-security-templates/cyber-insurance-questionnaire-guide.html
@@ -14,6 +15,7 @@ https://jakeddot.github.io/small-business-security-templates/hipaa-security-risk
 https://jakeddot.github.io/small-business-security-templates/how-to-check-pos-card-reader-for-skimmers.html
 https://jakeddot.github.io/small-business-security-templates/incident-response-plan-template-small-business.html
 https://jakeddot.github.io/small-business-security-templates/
+https://jakeddot.github.io/small-business-security-templates/is-remote-desktop-exposed-to-internet.html
 https://jakeddot.github.io/small-business-security-templates/managed-it-sla-template.html
 https://jakeddot.github.io/small-business-security-templates/medical-dental-office-security-checklist.html
 https://jakeddot.github.io/small-business-security-templates/mfa-rollout-plan-small-business.html
