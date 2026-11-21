@@ -26,6 +26,7 @@ https://jakeddot.github.io/small-business-security-templates/mfa-rollout-plan-sm
 https://jakeddot.github.io/small-business-security-templates/microsoft-365-hacked-email-account-checklist.html
 https://jakeddot.github.io/small-business-security-templates/microsoft-365-offboarding-checklist.html
 https://jakeddot.github.io/small-business-security-templates/msp-client-onboarding-checklist.html
+https://jakeddot.github.io/small-business-security-templates/new-employee-security-onboarding-checklist.html
 https://jakeddot.github.io/small-business-security-templates/partners.html
 https://jakeddot.github.io/small-business-security-templates/password-and-mfa-policy-template.html
 https://jakeddot.github.io/small-business-security-templates/pci-compliance-checklist-small-business.html
@@ -38,5 +39,6 @@ https://jakeddot.github.io/small-business-security-templates/small-business-cybe
 https://jakeddot.github.io/small-business-security-templates/tabletop-exercise-template-small-business.html
 https://jakeddot.github.io/small-business-security-templates/vendor-bank-details-change-verification.html
 https://jakeddot.github.io/small-business-security-templates/vendor-security-questionnaire-small-business.html
+https://jakeddot.github.io/small-business-security-templates/windows-10-end-of-support-small-business.html
 https://jakeddot.github.io/small-business-security-templates/windows-security-audit-powershell.html
 https://jakeddot.github.io/small-business-security-templates/wisp-template-tax-preparers.html
