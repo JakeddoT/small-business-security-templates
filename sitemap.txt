@@ -41,6 +41,7 @@ https://jakeddot.github.io/small-business-security-templates/sent-email-to-wrong
 https://jakeddot.github.io/small-business-security-templates/small-business-cybersecurity-checklist.html
 https://jakeddot.github.io/small-business-security-templates/store-opening-closing-security-checklist.html
 https://jakeddot.github.io/small-business-security-templates/tabletop-exercise-template-small-business.html
+https://jakeddot.github.io/small-business-security-templates/tax-preparer-data-breach-what-to-do.html
 https://jakeddot.github.io/small-business-security-templates/vendor-bank-details-change-verification.html
 https://jakeddot.github.io/small-business-security-templates/vendor-security-questionnaire-small-business.html
 https://jakeddot.github.io/small-business-security-templates/windows-10-end-of-support-small-business.html
