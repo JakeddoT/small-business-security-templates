@@ -17,11 +17,13 @@ https://jakeddot.github.io/small-business-security-templates/
 https://jakeddot.github.io/small-business-security-templates/managed-it-sla-template.html
 https://jakeddot.github.io/small-business-security-templates/medical-dental-office-security-checklist.html
 https://jakeddot.github.io/small-business-security-templates/mfa-rollout-plan-small-business.html
+https://jakeddot.github.io/small-business-security-templates/microsoft-365-hacked-email-account-checklist.html
 https://jakeddot.github.io/small-business-security-templates/microsoft-365-offboarding-checklist.html
 https://jakeddot.github.io/small-business-security-templates/msp-client-onboarding-checklist.html
 https://jakeddot.github.io/small-business-security-templates/partners.html
 https://jakeddot.github.io/small-business-security-templates/password-and-mfa-policy-template.html
 https://jakeddot.github.io/small-business-security-templates/pci-compliance-checklist-small-business.html
+https://jakeddot.github.io/small-business-security-templates/ransomware-attack-what-to-do-small-business.html
 https://jakeddot.github.io/small-business-security-templates/security-awareness-training-log-template.html
 https://jakeddot.github.io/small-business-security-templates/security-self-assessment.html
 https://jakeddot.github.io/small-business-security-templates/small-business-cybersecurity-checklist.html
