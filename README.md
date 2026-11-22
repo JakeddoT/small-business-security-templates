@@ -40,6 +40,7 @@ Site: https://jakeddot.github.io/small-business-security-templates/
 - [Backup restore test checklist](https://jakeddot.github.io/small-business-security-templates/backup-restore-test-checklist.html)
 - [Security awareness training log template](https://jakeddot.github.io/small-business-security-templates/security-awareness-training-log-template.html)
 - [Cyber insurance claim: what to do after an incident](https://jakeddot.github.io/small-business-security-templates/cyber-insurance-claim-what-to-do.html)
+- [What does cyber insurance cover for a small business?](https://jakeddot.github.io/small-business-security-templates/what-does-cyber-insurance-cover-small-business.html)
 
 ## Security basics and policies
 

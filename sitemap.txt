@@ -77,6 +77,7 @@ https://jakeddot.github.io/small-business-security-templates/text-message-scams-
 https://jakeddot.github.io/small-business-security-templates/therapist-private-practice-hipaa-security-checklist.html
 https://jakeddot.github.io/small-business-security-templates/vendor-bank-details-change-verification.html
 https://jakeddot.github.io/small-business-security-templates/vendor-security-questionnaire-small-business.html
+https://jakeddot.github.io/small-business-security-templates/what-does-cyber-insurance-cover-small-business.html
 https://jakeddot.github.io/small-business-security-templates/windows-10-end-of-support-small-business.html
 https://jakeddot.github.io/small-business-security-templates/windows-11-upgrade-checklist-small-business.html
 https://jakeddot.github.io/small-business-security-templates/windows-security-audit-powershell.html
