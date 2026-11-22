@@ -55,6 +55,7 @@ Site: https://jakeddot.github.io/small-business-security-templates/
 - [Domain name security checklist: stop expiry and hijacking](https://jakeddot.github.io/small-business-security-templates/domain-name-security-checklist-small-business.html)
 - [Remote employee home office security checklist](https://jakeddot.github.io/small-business-security-templates/remote-employee-home-office-security-checklist.html)
 - [Ransomware prevention checklist: 12 checks for small business](https://jakeddot.github.io/small-business-security-templates/ransomware-prevention-checklist-small-business.html)
+- [Office printer and copier security checklist](https://jakeddot.github.io/small-business-security-templates/office-printer-copier-security-checklist.html)
 
 ## Staff training and phishing awareness
 
