@@ -27,6 +27,7 @@ https://jakeddot.github.io/small-business-security-templates/
 https://jakeddot.github.io/small-business-security-templates/is-remote-desktop-exposed-to-internet.html
 https://jakeddot.github.io/small-business-security-templates/it-asset-inventory-template-small-business.html
 https://jakeddot.github.io/small-business-security-templates/law-firm-cybersecurity-checklist-small-firms.html
+https://jakeddot.github.io/small-business-security-templates/local-admin-rights-laps-small-business.html
 https://jakeddot.github.io/small-business-security-templates/lost-company-laptop-what-to-do.html
 https://jakeddot.github.io/small-business-security-templates/managed-it-sla-template.html
 https://jakeddot.github.io/small-business-security-templates/medical-dental-office-security-checklist.html
