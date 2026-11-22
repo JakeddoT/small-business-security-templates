@@ -52,6 +52,7 @@ https://jakeddot.github.io/small-business-security-templates/pci-compliance-chec
 https://jakeddot.github.io/small-business-security-templates/phishing-red-flags-poster.html
 https://jakeddot.github.io/small-business-security-templates/qr-code-phishing-quishing-small-business.html
 https://jakeddot.github.io/small-business-security-templates/ransomware-attack-what-to-do-small-business.html
+https://jakeddot.github.io/small-business-security-templates/ransomware-prevention-checklist-small-business.html
 https://jakeddot.github.io/small-business-security-templates/real-estate-wire-fraud-prevention-checklist.html
 https://jakeddot.github.io/small-business-security-templates/remote-employee-home-office-security-checklist.html
 https://jakeddot.github.io/small-business-security-templates/restaurant-cybersecurity-checklist.html
