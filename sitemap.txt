@@ -9,6 +9,7 @@ https://jakeddot.github.io/small-business-security-templates/cyber-insurance-mfa
 https://jakeddot.github.io/small-business-security-templates/cyber-insurance-questionnaire-guide.html
 https://jakeddot.github.io/small-business-security-templates/cyber-insurance-renewal-checklist.html
 https://jakeddot.github.io/small-business-security-templates/data-retention-policy-template.html
+https://jakeddot.github.io/small-business-security-templates/deepfake-voice-ceo-fraud-small-business.html
 https://jakeddot.github.io/small-business-security-templates/domain-name-security-checklist-small-business.html
 https://jakeddot.github.io/small-business-security-templates/employee-offboarding-checklist.html
 https://jakeddot.github.io/small-business-security-templates/fake-it-support-call-teams-scam.html
