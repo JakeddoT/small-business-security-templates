@@ -70,6 +70,7 @@ Site: https://jakeddot.github.io/small-business-security-templates/
 - [Do you need a separate Microsoft 365 backup?](https://jakeddot.github.io/small-business-security-templates/do-you-need-microsoft-365-backup.html)
 - [SPF, DKIM and DMARC setup for small business (plain English)](https://jakeddot.github.io/small-business-security-templates/spf-dkim-dmarc-setup-small-business.html)
 - [MFA rollout plan for small business](https://jakeddot.github.io/small-business-security-templates/mfa-rollout-plan-small-business.html)
+- [Microsoft 365 security defaults vs Conditional Access](https://jakeddot.github.io/small-business-security-templates/microsoft-365-security-defaults-vs-conditional-access.html)
 
 ## Staff changes and accounts
 

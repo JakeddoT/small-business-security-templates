@@ -42,6 +42,7 @@ https://jakeddot.github.io/small-business-security-templates/medical-dental-offi
 https://jakeddot.github.io/small-business-security-templates/mfa-rollout-plan-small-business.html
 https://jakeddot.github.io/small-business-security-templates/microsoft-365-hacked-email-account-checklist.html
 https://jakeddot.github.io/small-business-security-templates/microsoft-365-offboarding-checklist.html
+https://jakeddot.github.io/small-business-security-templates/microsoft-365-security-defaults-vs-conditional-access.html
 https://jakeddot.github.io/small-business-security-templates/microsoft-secure-score-small-business.html
 https://jakeddot.github.io/small-business-security-templates/msp-client-onboarding-checklist.html
 https://jakeddot.github.io/small-business-security-templates/msp-monthly-maintenance-checklist.html
