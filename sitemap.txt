@@ -36,6 +36,7 @@ https://jakeddot.github.io/small-business-security-templates/msp-quarterly-busin
 https://jakeddot.github.io/small-business-security-templates/new-employee-security-onboarding-checklist.html
 https://jakeddot.github.io/small-business-security-templates/partners.html
 https://jakeddot.github.io/small-business-security-templates/password-and-mfa-policy-template.html
+https://jakeddot.github.io/small-business-security-templates/password-manager-rollout-small-business.html
 https://jakeddot.github.io/small-business-security-templates/payroll-direct-deposit-change-scam.html
 https://jakeddot.github.io/small-business-security-templates/pci-compliance-checklist-small-business.html
 https://jakeddot.github.io/small-business-security-templates/phishing-red-flags-poster.html
