@@ -14,6 +14,7 @@ https://jakeddot.github.io/small-business-security-templates/data-retention-poli
 https://jakeddot.github.io/small-business-security-templates/deepfake-voice-ceo-fraud-small-business.html
 https://jakeddot.github.io/small-business-security-templates/do-you-need-microsoft-365-backup.html
 https://jakeddot.github.io/small-business-security-templates/domain-name-security-checklist-small-business.html
+https://jakeddot.github.io/small-business-security-templates/edr-vs-antivirus-small-business.html
 https://jakeddot.github.io/small-business-security-templates/employee-offboarding-checklist.html
 https://jakeddot.github.io/small-business-security-templates/fake-it-support-call-teams-scam.html
 https://jakeddot.github.io/small-business-security-templates/ftc-safeguards-rule-auto-dealers-checklist.html

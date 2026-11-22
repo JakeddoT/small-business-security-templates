@@ -86,6 +86,7 @@ Site: https://jakeddot.github.io/small-business-security-templates/
 - [Still on Windows 10? What a small business should do now](https://jakeddot.github.io/small-business-security-templates/windows-10-end-of-support-small-business.html)
 - [Windows 11 upgrade checklist for small business PCs](https://jakeddot.github.io/small-business-security-templates/windows-11-upgrade-checklist-small-business.html)
 - [Remove local admin rights and set up Windows LAPS](https://jakeddot.github.io/small-business-security-templates/local-admin-rights-laps-small-business.html)
+- [EDR vs antivirus for small business: what you actually need](https://jakeddot.github.io/small-business-security-templates/edr-vs-antivirus-small-business.html)
 
 ## Guides by industry: retail, restaurants, healthcare, tax, legal, real estate and nonprofits
 
