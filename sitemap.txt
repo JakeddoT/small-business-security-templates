@@ -6,6 +6,7 @@ https://jakeddot.github.io/small-business-security-templates/business-social-med
 https://jakeddot.github.io/small-business-security-templates/byod-policy-template.html
 https://jakeddot.github.io/small-business-security-templates/check-bitlocker-status-all-computers.html
 https://jakeddot.github.io/small-business-security-templates/clicked-phishing-link-what-to-do.html
+https://jakeddot.github.io/small-business-security-templates/cyber-insurance-claim-what-to-do.html
 https://jakeddot.github.io/small-business-security-templates/cyber-insurance-mfa-requirements.html
 https://jakeddot.github.io/small-business-security-templates/cyber-insurance-questionnaire-guide.html
 https://jakeddot.github.io/small-business-security-templates/cyber-insurance-renewal-checklist.html
