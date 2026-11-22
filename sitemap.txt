@@ -11,6 +11,7 @@ https://jakeddot.github.io/small-business-security-templates/cyber-insurance-ren
 https://jakeddot.github.io/small-business-security-templates/data-retention-policy-template.html
 https://jakeddot.github.io/small-business-security-templates/domain-name-security-checklist-small-business.html
 https://jakeddot.github.io/small-business-security-templates/employee-offboarding-checklist.html
+https://jakeddot.github.io/small-business-security-templates/fake-it-support-call-teams-scam.html
 https://jakeddot.github.io/small-business-security-templates/ftc-safeguards-rule-checklist-small-business.html
 https://jakeddot.github.io/small-business-security-templates/ftc-safeguards-rule-qualified-individual.html
 https://jakeddot.github.io/small-business-security-templates/google-workspace-hacked-account-checklist.html
