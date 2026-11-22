@@ -67,6 +67,7 @@ https://jakeddot.github.io/small-business-security-templates/security-awareness-
 https://jakeddot.github.io/small-business-security-templates/security-awareness-training-topics-12-month-plan.html
 https://jakeddot.github.io/small-business-security-templates/security-self-assessment.html
 https://jakeddot.github.io/small-business-security-templates/sent-email-to-wrong-person-what-to-do.html
+https://jakeddot.github.io/small-business-security-templates/shared-email-account-vs-shared-mailbox.html
 https://jakeddot.github.io/small-business-security-templates/small-business-cybersecurity-checklist.html
 https://jakeddot.github.io/small-business-security-templates/spf-dkim-dmarc-setup-small-business.html
 https://jakeddot.github.io/small-business-security-templates/store-opening-closing-security-checklist.html
