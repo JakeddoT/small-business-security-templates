@@ -24,6 +24,7 @@ https://jakeddot.github.io/small-business-security-templates/guest-wifi-security
 https://jakeddot.github.io/small-business-security-templates/hipaa-breach-risk-assessment-four-factors.html
 https://jakeddot.github.io/small-business-security-templates/hipaa-business-associate-agreement-checklist.html
 https://jakeddot.github.io/small-business-security-templates/hipaa-security-risk-assessment-small-practice.html
+https://jakeddot.github.io/small-business-security-templates/how-to-check-if-email-is-spoofed-headers.html
 https://jakeddot.github.io/small-business-security-templates/how-to-check-pos-card-reader-for-skimmers.html
 https://jakeddot.github.io/small-business-security-templates/how-to-dispose-of-old-computers-securely-small-business.html
 https://jakeddot.github.io/small-business-security-templates/incident-response-plan-template-small-business.html
