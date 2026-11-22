@@ -47,6 +47,7 @@ https://jakeddot.github.io/small-business-security-templates/msp-monthly-mainten
 https://jakeddot.github.io/small-business-security-templates/msp-quarterly-business-review-template.html
 https://jakeddot.github.io/small-business-security-templates/new-employee-security-onboarding-checklist.html
 https://jakeddot.github.io/small-business-security-templates/nonprofit-cybersecurity-checklist.html
+https://jakeddot.github.io/small-business-security-templates/office-printer-copier-security-checklist.html
 https://jakeddot.github.io/small-business-security-templates/partners.html
 https://jakeddot.github.io/small-business-security-templates/password-and-mfa-policy-template.html
 https://jakeddot.github.io/small-business-security-templates/password-manager-rollout-small-business.html
